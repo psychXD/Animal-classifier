@@ -8,13 +8,13 @@ Dataset
 
 For this project, I collected images from various sources to create a diverse and representative dataset. Here are the links to the datasets I used for each animal class:
 
-    Horse Dataset
-    Pig Dataset
-    Owl Dataset
-    Gorilla Dataset
-    Bear Dataset
-    Ostrich Dataset
-    Buffalo Dataset
+    Horse Dataset   ->https://images.cv/dataset/horse-image-classification-dataset
+    Pig Dataset     ->https://images.cv/dataset/pig-image-classification-dataset
+    Owl Dataset     ->https://images.cv/dataset/owl-image-classification-dataset
+    Gorilla Dataset ->https://images.cv/dataset/gorilla-image-classification-dataset
+    Bear Dataset    ->https://images.cv/dataset/bear-image-classification-dataset
+    Ostrich Dataset ->https://images.cv/dataset/ostrich-image-classification-dataset
+    Buffalo Dataset ->https://images.cv/dataset/water-buffalo-image-classification-dataset
 
 Model Architecture
 
